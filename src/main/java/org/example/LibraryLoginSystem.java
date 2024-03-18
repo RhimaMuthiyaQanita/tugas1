@@ -8,7 +8,7 @@ public class LibraryLoginSystem {
 
         // Inisialisasi objek Admin dan Mahasiswa
         Admin admin = new Admin("admin", "admin123");
-        Mahasiswa mahasiswa = new Mahasiswa("123456789012345", "mahasiswa123");
+        Mahasiswa mahasiswa = new Mahasiswa("202310370311401", "mahasiswa123");
 
         // Pilihan menu
         System.out.println("1. Login sebagai Admin");
